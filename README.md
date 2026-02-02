@@ -1,73 +1,76 @@
-Hi 👋, eu sou Vinicios Silva 🚀
-Desenvolvedor de Software Júnior | Programação & Robótica
+# Olá 👋, Eu sou Vinicios Silva
 
-🇧🇷 Brasil
+🚀 Desenvolvedor de Software Júnior | Iniciante em JavaScript e .NET
+Brasil
 
-Sou apaixonado por programação e robótica, atuando no desenvolvimento de sistemas escaláveis, aplicações web de alto desempenho e soluções inteligentes com hardware e software integrados.
+Estou iniciando na área de desenvolvimento de software, criando projetos simples e aprendendo na prática como funcionam sistemas web e aplicações.
 
-Tenho forte foco em arquitetura de software, performance, código limpo e soluções orientadas a negócio, além de experiência prática em robótica educacional e competitiva.
+Tenho interesse em evoluir em lógica de programação, boas práticas, organização de código e fundamentos de arquitetura.
 
-🤖 Robótica & Competições
+Atualmente, estou buscando aprendizado contínuo, desenvolvendo pequenos projetos, estudando novas tecnologias e compartilhando minha evolução no desenvolvimento de software e tecnologia.
 
-🏆 Olimpíada Brasileira de Robótica (OBR)
+---
 
-🥇 Campeão Regional – 2 vezes
+## 🌐 Onde me encontrar
 
-🥇 Campeão Estadual de Pernambuco – 1 vez
+<p align="left">
+  <a href="https://github.com/DevViniciosBR">
+    <img src="https://img.shields.io/badge/GitHub-DevViniciosBR-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/vinicios5u?igsh=MWUwZjM2anJudXRoYg%3D%3D">
+    <img src="https://img.shields.io/badge/Instagram-@Vinicios5u-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/TikTok--000000?style=for-the-badge&logo=tiktok" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/YouTube--FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-🏅 Diversas premiações em feiras de tecnologia e ciência
+---
 
-🔧 Desenvolvimento de projetos com Arduino, sensores, automação e sistemas embarcados
+## 🧠 O que eu faço
 
-🤝 Integração de software + hardware para resolver problemas reais
+- ⚡ Otimização de desempenho
+- 🧩 Design de sistemas
+- 💳 Lógica de negócios
+- 🤖 Automação e integrações
+- 📊 Painéis e análises
+---
 
-🎓 Formação
+## 🛠️ Conjunto de tecnologias
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas
+### Frontend
 
-🏫 SENAC – Pernambuco
-
-🌐 Onde me encontrar
-<p align="left"> <a href="https://github.com/DevViniciosBR"> <img src="https://img.shields.io/badge/GitHub-DevViniciosBR-181717?style=for-the-badge&logo=github" /> </a> <a href=""> <img src="https://img.shields.io/badge/Instagram-@Vinicios5u-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href=""> <img src="https://img.shields.io/badge/TikTok-INDISPONÍVEL-000000?style=for-the-badge&logo=tiktok" /> </a> <a href=""> <img src="https://img.shields.io/badge/YouTube-INDISPONÍVEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </p>
-🧠 O que eu faço
-
-🏗️ Desenvolvimento de Sistemas 
-
-⚡ Otimização de performance e eficiência
-
-🤖 Automação, robótica e sistemas inteligentes
-
-📊 Dashboards e análise de dados
-
-🎓 Compartilhamento de conhecimento
-
-🛠️ Tecnologias
-💻 Frontend
-
-
-
-
-
-
-⚙️ Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
 
+### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
+---
 
+## 📊 GitHub Status
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevViniciosBR&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevViniciosBR&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
-📊 GitHub Stats
-<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevViniciosBR&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevViniciosBR&layout=compact&theme=tokyonight" /> </p>
-🚀 Filosofia
+## 🚀 Filosofia
 
-"Programar é transformar ideias em soluções reais.
-Robótica é dar vida ao código.
-Meu objetivo é criar tecnologia que escale, resolva problemas de verdade
-e gere impacto no mundo."
+> _"Código não se trata apenas de resolver problemas. 
+> Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
 
-⭐ Se curtir algum projeto, deixa uma estrela
-🤝 Sempre aberto a colaborações, parcerias e ideias inovadoras
+---
 
-Se quiser, eu também posso:
+⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos!
+🤝 Sempre aberto a colaborações, parcerias e ideias legais
