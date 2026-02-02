@@ -1,14 +1,13 @@
-# Olá 👋, Eu sou Vinicios Silva
+# Olá 👋, eu sou Vinicios Silva
 
-🚀 Desenvolvedor de Software Júnior | Iniciante em JavaScript & Python
+🚀 Desenvolvedor de Software | Foco em JavaScript & Python  
+📍 Brasil
 
-Brasil
+Sou desenvolvedor em início de carreira, com foco em aprendizado contínuo e construção de projetos práticos que fortalecem minha base em desenvolvimento de software.
 
-Estou iniciando na área de desenvolvimento de software, criando projetos simples e aprendendo na prática como funcionam sistemas web e aplicações.
+Interesse em lógica de programação, boas práticas, organização de código e fundamentos de arquitetura de sistemas. Busco evoluir através da prática, estudando tecnologias atuais e aplicando conceitos em projetos reais.
 
-Tenho interesse em evoluir em lógica de programação, boas práticas, organização de código e fundamentos de arquitetura.
-
-Atualmente, estou buscando aprendizado contínuo, desenvolvendo pequenos projetos, estudando novas tecnologias e compartilhando minha evolução no desenvolvimento de software e tecnologia.
+Atualmente, utilizo o GitHub para documentar minha evolução, compartilhar projetos e demonstrar meu comprometimento com crescimento técnico, disciplina e qualidade de código.
 
 ---
 
