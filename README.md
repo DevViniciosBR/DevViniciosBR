@@ -3,7 +3,7 @@ Desenvolvedor de Software Júnior | Programação & Robótica
 
 🇧🇷 Brasil
 
-Sou apaixonado por programação e robótica, atuando no desenvolvimento de sistemas escaláveis, plataformas SaaS, aplicações web de alto desempenho e soluções inteligentes com hardware e software integrados.
+Sou apaixonado por programação e robótica, atuando no desenvolvimento de sistemas escaláveis, aplicações web de alto desempenho e soluções inteligentes com hardware e software integrados.
 
 Tenho forte foco em arquitetura de software, performance, código limpo e soluções orientadas a negócio, além de experiência prática em robótica educacional e competitiva.
 
