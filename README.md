@@ -68,8 +68,9 @@ Atualmente, estou buscando aprendizado contínuo, desenvolvendo pequenos projeto
 
 ## 🚀 Filosofia
 
-> _"Código não se trata apenas de resolver problemas. 
-> Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
+> _"Programar é pensar antes de escrever, errar para aprender e criar soluções
+>  que façam sentido no mundo real.
+"_
 
 ---
 
