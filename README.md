@@ -1,6 +1,7 @@
 # Olá 👋, Eu sou Vinicios Silva
 
-🚀 Desenvolvedor de Software Júnior | Iniciante em JavaScript e .NET
+🚀 Desenvolvedor de Software Júnior | Iniciante em JavaScript & Python
+
 Brasil
 
 Estou iniciando na área de desenvolvimento de software, criando projetos simples e aprendendo na prática como funcionam sistemas web e aplicações.
